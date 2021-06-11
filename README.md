@@ -6,7 +6,7 @@
 * Results-oriented .Net (C#) software developer who seeks to ﬁnd solutions for every problem. Finding a solution needs the right knowledge. I seek new knowledge every day.      Currently, I am learning C# .NET Framework Web API.
 ---
 
-- 🔭 I’m currently working on personal projocts
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning new things to improve my programming skills
 - 📫 How to reach me: armands.martinsons@gmail.com
 
