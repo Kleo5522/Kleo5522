@@ -3,7 +3,7 @@
 
 --- 
   
-* Results-oriented .Net (C#) software developer who seeks to find solutions for every problem. Currently, I am learning C# .NET Framework Web API.
+* Results-oriented .Net (C#) software developer who seeks to ﬁnd solutions for every problem. Finding a solution needs the right knowledge. I seek new knowledge every day.      Currently, I am learning C# .NET Framework Web API.
 ---
 
 - 🔭 I’m currently working on personal projocts
