@@ -3,8 +3,7 @@
 
 --- 
   
-* I am a goal-oriented .NET developer who eager to acquire new skills and realize my potential as a software developer. The previous experience gave me good skills such as emotional intelligence as well as big picture vision and the ability to work well as a part of a team or independently
-
+* Results-oriented .Net (C#) software developer who seeks to find solutions for every problem. Currently, I am learning C# .NET Framework Web API.
 ---
 
 - 🔭 I’m currently working on personal projocts
